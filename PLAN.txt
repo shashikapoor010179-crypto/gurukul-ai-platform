@@ -1,0 +1,14 @@
+Gurukul AI Platform
+
+Version 1:
+One school
+One chatbot
+
+Version 2:
+Many schools
+
+Version 3:
+Admin dashboard
+
+Rule:
+AI answers only from school data.
