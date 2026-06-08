@@ -1,0 +1,23 @@
+{
+  "school": {
+    "name": "ABC School",
+    "principal": {
+      "name": "Mr Sharma",
+      "qualification": "M.Ed",
+      "experience": "15 years"
+    }
+  },
+
+  "teachers": {
+    "chemistry": {
+      "name": "Mrs Gupta",
+      "qualification": "M.Sc Chemistry",
+      "experience": "12 years"
+    }
+  },
+
+  "fees": {
+    "class11": "45000",
+    "class12": "50000"
+  }
+}
